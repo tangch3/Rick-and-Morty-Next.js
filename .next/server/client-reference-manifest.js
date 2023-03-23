@@ -1,1 +1,387 @@
-self.__RSC_MANIFEST={"__ssr_module_mapping__":{"611":{"*":{"id":"5958","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"*","async":false},"":{"id":"5958","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"","async":false},"default":{"id":"5958","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"default","async":false}},"3920":{"*":{"id":"3716","chunks":["920:920-5c54221eb06fdb0a","106:app/id/[id]/page-f9e69d55d2bb35b4"],"name":"*","async":false},"":{"id":"3716","chunks":["920:920-5c54221eb06fdb0a","106:app/id/[id]/page-f9e69d55d2bb35b4"],"name":"","async":false},"default":{"id":"3716","chunks":["920:920-5c54221eb06fdb0a","106:app/id/[id]/page-f9e69d55d2bb35b4"],"name":"default","async":false}},"8331":{"*":{"id":"1551","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"*","async":false},"":{"id":"1551","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"","async":false},"default":{"id":"1551","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"default","async":false}},"8880":{"*":{"id":"2513","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"*","async":false},"":{"id":"2513","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"","async":false},"default":{"id":"2513","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"default","async":false}},"8892":{"*":{"id":"8950","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"*","async":false},"":{"id":"8950","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"","async":false},"default":{"id":"8950","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"default","async":false}}},"__edge_ssr_module_mapping__":{},"__entry_css_files__":{"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/app/layout":["static/css/d140258a950b326c.css"]},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/components/app-router.js":{"id":"611","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"*","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/components/app-router.js":{"id":"611","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"*","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/components/app-router.js#":{"id":"611","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/components/app-router.js#":{"id":"611","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/components/app-router.js#default":{"id":"611","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"default","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/components/app-router.js#default":{"id":"611","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"default","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/components/error-boundary.js":{"id":"8331","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"*","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/components/error-boundary.js":{"id":"8331","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"*","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/components/error-boundary.js#":{"id":"8331","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/components/error-boundary.js#":{"id":"8331","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/components/error-boundary.js#default":{"id":"8331","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"default","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/components/error-boundary.js#default":{"id":"8331","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"default","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/components/layout-router.js":{"id":"8892","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"*","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/components/layout-router.js":{"id":"8892","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"*","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/components/layout-router.js#":{"id":"8892","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/components/layout-router.js#":{"id":"8892","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/components/layout-router.js#default":{"id":"8892","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"default","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/components/layout-router.js#default":{"id":"8892","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"default","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/components/render-from-template-context.js":{"id":"8880","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"*","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/components/render-from-template-context.js":{"id":"8880","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"*","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/components/render-from-template-context.js#":{"id":"8880","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/components/render-from-template-context.js#":{"id":"8880","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/components/render-from-template-context.js#default":{"id":"8880","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"default","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/components/render-from-template-context.js#default":{"id":"8880","chunks":["272:webpack-89238aabb6e483df","455:455-80713d5f0013dce9"],"name":"default","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/link.js":{"id":"3920","chunks":["920:920-5c54221eb06fdb0a","106:app/id/[id]/page-f9e69d55d2bb35b4"],"name":"*","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/link.js":{"id":"3920","chunks":["920:920-5c54221eb06fdb0a","106:app/id/[id]/page-f9e69d55d2bb35b4"],"name":"*","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/link.js#":{"id":"3920","chunks":["920:920-5c54221eb06fdb0a","106:app/id/[id]/page-f9e69d55d2bb35b4"],"name":"","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/link.js#":{"id":"3920","chunks":["920:920-5c54221eb06fdb0a","106:app/id/[id]/page-f9e69d55d2bb35b4"],"name":"","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/link.js#default":{"id":"3920","chunks":["920:920-5c54221eb06fdb0a","106:app/id/[id]/page-f9e69d55d2bb35b4"],"name":"default","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/link.js#default":{"id":"3920","chunks":["920:920-5c54221eb06fdb0a","106:app/id/[id]/page-f9e69d55d2bb35b4"],"name":"default","async":false},"/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/styles/globals.css#":{"id":"null","name":"","chunks":["static/css/d140258a950b326c.css"]}}
+self.__RSC_MANIFEST={
+  "__ssr_module_mapping__": {
+    "(app-client)/./node_modules/next/dist/client/components/app-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/error-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/layout-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "chunks": [
+          "app/id/[id]/page:app/id/[id]/page"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "chunks": [
+          "app/id/[id]/page:app/id/[id]/page"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "chunks": [
+          "app/id/[id]/page:app/id/[id]/page"
+        ],
+        "name": "default",
+        "async": false
+      }
+    }
+  },
+  "__edge_ssr_module_mapping__": {},
+  "__entry_css_files__": {
+    "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/app/layout": [
+      "static/css/_app-client_styles_globals_css.css"
+    ]
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/components/app-router.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/components/app-router.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/components/app-router.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/components/app-router.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/components/app-router.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/components/app-router.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/components/error-boundary.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/components/error-boundary.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/components/error-boundary.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/components/error-boundary.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/components/error-boundary.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/components/error-boundary.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/components/layout-router.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/components/layout-router.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/components/layout-router.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/components/layout-router.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/components/layout-router.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/components/layout-router.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/components/render-from-template-context.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/components/render-from-template-context.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/components/render-from-template-context.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/components/render-from-template-context.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/components/render-from-template-context.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/link.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/id/[id]/page:app/id/[id]/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/link.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/id/[id]/page:app/id/[id]/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/link.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/id/[id]/page:app/id/[id]/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/link.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/id/[id]/page:app/id/[id]/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/client/link.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/id/[id]/page:app/id/[id]/page"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/node_modules/next/dist/esm/client/link.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/id/[id]/page:app/id/[id]/page"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/chris/Documents/UoE Web Dev/3 - Full Stack Web Development/L3T12 - Next.js II/Compulsory Task/styles/globals.css#": {
+    "id": "null",
+    "name": "",
+    "chunks": [
+      "static/css/_app-client_styles_globals_css.css"
+    ]
+  }
+}
